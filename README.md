@@ -10,7 +10,7 @@
         <img 
             src="https://custom-icon-badges.demolab.com/github/last-commit/bernardommecabo/custom-icon-badges?logo=history&logoColor=white"
         />
-        <a href="https://custom-icon-badges.demolab.com/github/issues-pr-closed/DenverCoder1/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white">
+        <a href="https://custom-icon-badges.demolab.com/github/issues-pr-closed/bernardommecabo/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white">
         <img 
             src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/DenverCoder1/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white"
         /> 
