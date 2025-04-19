@@ -17,18 +17,7 @@
     </a>
 </p>
 
-## 📊Estatisticas
-
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=bernardommecabo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  ## 🔗 Links
+## 🔗 Links
 
 <p align = "center">
     <a href="https://www.linkedin.com/in/bernardomecabo/">
@@ -47,6 +36,27 @@
         />
     </a>
 </p>
+
+## 📊Estatisticas
+
+<p>
+  <img 
+    align="center" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=bernardommecabo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommecabo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+  
     
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHgycDFzZjFtNnlnNnZyd2x2czZuNGdyNzN0MTl1dm1qeWRpbDA4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VHhxQ1mcoRr81VXUpU/giphy.gif" alt="placeholder" width="1200" height="200">
