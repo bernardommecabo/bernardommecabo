@@ -41,7 +41,7 @@
 
 ![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardommecabo&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br) 
    
-![Bernardo's Github stats(https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommecabo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+![Bernardo's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommecabo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
   
     
