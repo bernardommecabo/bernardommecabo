@@ -37,9 +37,9 @@
     </a>
 </p>
 
-## 📊Estatisticas
+## 📊 Stats
 
-![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardommecabo&theme=aura&show_icons=true)) 
+![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardommecabo&theme=aura&show_icons=true) 
    
 ![Bernardo's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommecabo&theme=aura&layout=compact&custom_title=Tecnologias&langs_count=9)
 
