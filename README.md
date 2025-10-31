@@ -1,47 +1,55 @@
-# 🎴 Bernardo Mecabô 
+# 🎴 Bernardo Guilherme Madruga Mecabô 
 
-## 📩 About Me 
-- 👨🏻‍💻My name is Bernardo Guilherme Madruga Mecabô, i am 19 years old and natural from Lages, Santa Catarina - Brasil.
-- 📕In the actual moment I'm studying Computer Science at IFSC (Federal Institute of Santa Catarina).
-- ☕Currently learning Java and making college projects.
+### Hi, I'm Bernardo! 👋
+<br>
 
-<p align="center">
-    <a href="https://custom-icon-badges.demolab.com/github/last-commit/bernardommecabo/custom-icon-badges?logo=history&logoColor=white">
-        <img 
-            src="https://custom-icon-badges.demolab.com/github/last-commit/bernardommecabo/custom-icon-badges?logo=history&logoColor=white"
-        />
-        <a href="https://custom-icon-badges.demolab.com/github/issues-pr-closed/bernardommecabo/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white">
-        <img 
-            src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/bernardommecabo/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white"
-        /> 
-    </a>
-</p>
+- 👨🏻‍💻 I'm a Computer Science student (6/8) at IFSC (Federal Institute of Santa Catarina), Brazil.
+- ☕ Focused on backend development, specializing in **Java**, **SpringBoot**, and **SQL**.
+- 🚀 Actively seeking an internship to contribute to real-world projects and grow in a fast-paced environment.
+- 📫 How to reach me: **contato.bernardomecabo@gmail.com**
+
+<br>
 
 ## 🔗 Links
-
-<p align = "center">
-    <a href="https://www.linkedin.com/in/bernardomecabo/">
-    <img 
-        src="https://custom-icon-badges.demolab.com/badge/-Linkedin-white?style=for-the-badge&logoColor=white&logo=linked"
-        />
-    </a>
-    <a href="mailto:contato.bernardomecabo@gmail.com">
-        <img 
-            src="https://custom-icon-badges.demolab.com/badge/-contato.bernardomecabo@gmail.com-white?style=for-the-badge&logo=mention&logoColor=black"
-        />
-    </a>
-    <a href="https://github.com/bernardommecabo?tab=repositories">
-        <img 
-            src="https://custom-icon-badges.demolab.com/badge/Santa%20Catarina-BR-purple?style=for-the-badge&logo=location&logoColor=white"
-        />
-    </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/bernardomecabo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contato.bernardomecabo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-## 📊 Stats
+## 🛠️ Tech Stack & Tools
 
-![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardommecabo&theme=dracula&show_icons=true) ![Bernardo's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommecabo&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9)
+<p align="left">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-  
-    
+## 🚀 Featured Projects
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHgycDFzZjFtNnlnNnZyd2x2czZuNGdyNzN0MTl1dm1qeWRpbDA4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VHhxQ1mcoRr81VXUpU/giphy.gif" alt="placeholder" width="1200" height="200">
+<p align="center">
+    <a href="https://github.com/bernardommecabo/personal-finance-manager">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bernardommecabo&repo=personal-finance-manager&theme=dracula&show_owner=true" />
+  </a>
+    <a href="https://github.com/bernardommecabo/event-subscription-connect">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bernardommecabo&repo=event-subscription-connect&theme=dracula&show_owner=true" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bernardommecabo&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommecabo&theme=dracula&layout=compact&hide_border=true&langs_count=9" />
+</p>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHgycDFzZjFtNnlnNnZyd2x2czZuNGdyNzN0MTl1dm1qeWRpbDA4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VHhxQ1mcoRr81VXUpU/giphy.gif" alt="placeholder" width="100%">
