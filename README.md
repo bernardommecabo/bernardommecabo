@@ -42,8 +42,8 @@
     <a href="https://github.com/bernardommecabo/personal-finance-manager">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bernardommecabo&repo=personal-finance-manager&theme=dracula&show_owner=true" />
   </a>
-    <a href="https://github.com/bernardommecabo/event-subscription-connect">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bernardommecabo&repo=event-subscription-connect&theme=dracula&show_owner=true" />
+    <a href="https://github.com/bernardommecabo/annotations-personal-studies">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bernardommecabo&repo=annotations-personal-studies&theme=dracula&show_owner=true" />
   </a>
 </p>
 
