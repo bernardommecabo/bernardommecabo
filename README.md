@@ -49,7 +49,7 @@ Backend developer focused on building event-driven systems, high-performance API
 
 [![My Skills](https://skillicons.dev/icons?i=spring,dotnet,angular,hibernate)](https://skillicons.dev)
 
-> Also: ASP.NET · Entity Framework · MassTransit · Spring Cloud Stream · JUnit 5 · MapStruct · JPA · Swagger/OpenAPI
+> Also: ASP.NET · Entity Framework · MassTransit · Spring Cloud Stream · JUnit 5 · Mockito · MapStruct · JPA · Swagger/OpenAPI
 
 **Databases**
 
@@ -65,9 +65,9 @@ Backend developer focused on building event-driven systems, high-performance API
 
 **Other**
 
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,obsidian)](https://skillicons.dev)
 
-> Also: WinForms · JFrame (Swing)
+> Also: WinForms · JFrame (Swing) · Flyway · EF Migrations
 
 ---
 
