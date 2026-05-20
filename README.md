@@ -41,13 +41,13 @@ Backend developer focused on building event-driven systems, high-performance API
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,python,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,python,js)](https://skillicons.dev)
 
 > Also: SQL
 
 **Frameworks & Libraries**
 
-[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,angular,hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,angular,hibernate,maven)](https://skillicons.dev)
 
 > Also: ASP.NET · Entity Framework · MassTransit · Spring Cloud Stream · JUnit 5 · Mockito · MapStruct · JPA · Swagger/OpenAPI
 
@@ -61,7 +61,7 @@ Backend developer focused on building event-driven systems, high-performance API
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,azure,aws,rabbitmq,postman,vscode,idea,visualstudio)](https://skillicons.dev)
 
-> Also: Docker Compose · Azure DevOps (CI/CD)
+> Also: Docker Compose · Azure DevOps (CI/CD) · DataGrip (Jetbrains)
 
 **Other**
 
